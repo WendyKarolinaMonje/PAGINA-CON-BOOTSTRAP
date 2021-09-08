@@ -1,0 +1,33 @@
+.navbar {
+    height: 100PX;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: RGB(1, 87, 155);
+}
+
+.image {
+   
+   width:100%;
+    max-width:1700px;
+}
+.image1{
+    max-width: 100%;
+    height: 200px;
+}
+
+p.card-text {
+    text-align: justify;
+}
+.ti{
+    text-align:center;
+}
+.bu{
+     text-align:center;
+}
+
+.slide{
+    margin-top:10px;
+}
+.slide img {
+    height:65vh;
+}
